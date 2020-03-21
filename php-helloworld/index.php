@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! OCP4 "\n";
+print "Hello, World! Updated "\n";
 ?>
