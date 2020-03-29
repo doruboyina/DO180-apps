@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
 <?php
-print "Hello, World! Updated "\n";
+echo "Hello World!";
 ?>
+
+</body>
+</html> 
