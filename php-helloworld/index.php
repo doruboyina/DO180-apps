@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
 <?php
-print "Hello, World! OCP4 "\n";
+echo "Hello, World! OCP4";
 ?>
+</body>
+</html>
