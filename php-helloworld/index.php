@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-echo "Hello, World! OCP4";
+echo "Hello, World! Welcome to BLR";
 ?>
 </body>
 </html>
